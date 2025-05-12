@@ -26,6 +26,3 @@ Feature: Login Functionality for OpenCart E-commerce Website
   Scenario: Navigating to the forgotten password page
     When I click on the "Forgotten Password" link
     Then I should be redirected to the password reset page
-  Scenario: Navigating to the forgotten password page
-    When I click on the "Forgotten Password" link
-    Then I should be redirected to the password reset page
